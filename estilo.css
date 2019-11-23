@@ -1,0 +1,18 @@
+@charset "utf-8";
+img{
+	margin:auto ;
+	display:block;
+}
+header{
+	font-family: "bilbo-swash-caps" ;
+	font-size: xx-large ;
+	text-align: center;
+
+}
+
+footer{
+	background: black;
+	color: white;
+	text-align: center; 
+	
+}
